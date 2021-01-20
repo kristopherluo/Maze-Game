@@ -1,0 +1,14 @@
+images/bricks.bmp
+images/start.bmp
+images/path.bmp
+images/gold.bmp
+images/boss.bmp
+images/heart.bmp
+images/door.bmp
+images/maggie.bmp
+5 7
+w w w w w w w
+s c c c w h w
+w w w c w c g
+w b c c c c w
+w w w w w w w
